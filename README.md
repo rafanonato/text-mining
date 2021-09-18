@@ -2,7 +2,7 @@
 
 ## MBA - DATA ANALITYCS AND BIG DATA - T9
 
-### DISCIPLINA: Anaálise de Midias Sociais e Mineração de Texto
+### DISCIPLINA: Análise de Midias Sociais e Mineração de Texto
 
 **Professores**:
 * Eduardo de Rezende Francisco
